@@ -37,6 +37,7 @@ button{
     width: 250px;
     height: 25px;
     font-size: 15px;
+    margin-top: 25px;
 }
 button:hover{
     background-color: white;
@@ -47,6 +48,13 @@ button:hover{
     align-content: left;
     left: 0px;
 }
-label{
+.senha{
+
+    margin: 20px 5px 20px 5px;
+    display: flex;
+    flex-direction:row;
+    position: fixed;
+    left: 0px;
+    align-items:center ;
     
 }
