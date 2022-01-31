@@ -37,7 +37,7 @@ button {
   width: 250px;
   height: 25px;
   font-size: 15px;
-  margin-top: 25px;
+  margin-top: 35px;
 }
 button:hover {
   background-color: white;
@@ -53,6 +53,11 @@ button:hover {
   display: flex;
   flex-direction: row;
   position: fixed;
-  left: 0px;
+  left: 110px;
   align-items: center;
+  justify-content: flex-start;
+}
+input.boxx{
+    width: 30px;
+    margin-right: 20px;
 }
